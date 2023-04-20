@@ -1,9 +1,9 @@
 <script setup>
-
+import BasicCounter from "../components/BasicCounter.vue";
 </script>
 
 <template>
-    <h2>This is a Statistic Page!</h2>
+  <BasicCounter></BasicCounter>
 </template>
 
 <style scoped></style>
